@@ -382,6 +382,7 @@ Remove all native listeners for this plugin.
 | ----------------------- | -------------------- |
 | **`isFinished`**        | <code>boolean</code> |
 | **`isCancelled`**       | <code>boolean</code> |
+| **`reason`**            | <code>string</code>  |
 | **`fractionCompleted`** | <code>number</code>  |
 
 

@@ -82,8 +82,6 @@ export interface Progress {
 
   isCancelled: boolean;
 
-  reason?: string;
-
   fractionCompleted: number;
 
 }
